@@ -1,0 +1,52 @@
+span {
+  color: #febe01;
+}
+h1 {
+  color: black;
+  font-family: Arial;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  font-family: Arial;
+}
+p {
+  color: white;
+  font-family: Arial;
+}
+div {
+  background: black;
+  width: 300px;
+  height: auto;
+  padding: 20px;
+  border-radius: 4px;
+
+  font-family: Arial;
+}
+button {
+  color: #332200;
+  background-color: #febe01;
+  width: 120px;
+  height: auto;
+  padding: 10px;
+  font-family: Arial;
+}
+p {
+  font-family: Arial;
+}
+.container {
+  margin: 0 auto;
+}
+.imagemRedonda {
+  border-radius: 50%;
+  max-width: 100%;
+  display: block;
+  width: 300px;
+  margin: auto;
+}
+img {
+  width: 200px;
+  border: 1px white solid;
+  border-radius: 2px;
+}
